@@ -1,1 +1,1 @@
-Proyecto hecho con sprint boot.
+proyecto que muestra la estructura de sprint boot
